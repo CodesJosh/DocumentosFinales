@@ -1,0 +1,292 @@
+{
+  "name": "Estructura base CAPSTONE APT122",
+  "groups": [
+    {
+      "id": 1,
+      "repository": "https://github.com/ocielescobar/Capstone.OE.ST.git",
+      "participants": [
+        { "id": 1, "lastNames": "Escobar", "firstNames": "Ociel", "username": "oci.escobar" },
+        { "id": 2, "lastNames": "Torres", "firstNames": "Sebastian", "username": "sm.torres" }
+      ]
+    },
+    {
+      "id": 2,
+      "repository": "https://github.com/jpablo14/HHPROJECT",
+      "participants": [
+        { "id": 3, "lastNames": "Salazar", "firstNames": "David", "username": "davi.salazar" },
+        { "id": 4, "lastNames": "Ramirez", "firstNames": "Juan", "username": "ju.ramirezj" }
+      ]
+    },
+    {
+      "id": 3,
+      "repository": "https://github.com/Benllis/proyecto-titulo-final-docs",
+      "participants": [
+        { "id": 5, "lastNames": "Morales", "firstNames": "Benjamin", "username": "bi.morales" },
+        { "id": 6, "lastNames": "Navarro", "firstNames": "Nicolas", "username": "ni.navarroi" }
+      ]
+    },
+    {
+      "id": 4,
+      "repository": "https://github.com/CodesJosh/DocumentosFinales",
+      "participants": [
+        { "id": 7, "lastNames": "Cavieres", "firstNames": "Agustin", "username": "ag.cavieres" },
+        { "id": 8, "lastNames": "Cruz", "firstNames": "Joshua", "username": "josh.cruz" },
+        { "id": 9, "lastNames": "Saavedra", "firstNames": "Nicolas", "username": "nico.saavedram" }
+      ]
+    },
+    {
+      "id": 5,
+      "repository": "https://github.com/Giannela10/Aethergate.git",
+      "participants": [
+        { "id": 10, "lastNames": "Gajardo", "firstNames": "Giannela", "username": "gi.gajardo" },
+        { "id": 11, "lastNames": "Hernandez", "firstNames": "Nicolas", "username": "nico.hernandezd" }
+      ]
+    },
+    {
+      "id": 6,
+      "repository": "https://github.com/jjmmcode/CAPSTONE-G6-2026-02",
+      "participants": [
+        { "id": 12, "lastNames": "Millan", "firstNames": "Felipe", "username": "fe.millan" },
+        { "id": 13, "lastNames": "Loncon", "firstNames": "Yerko", "username": "yer.loncon" },
+        { "id": 14, "lastNames": "Medina", "firstNames": "Joel", "username": "joe.medina" }
+      ]
+    },
+    {
+      "id": 7,
+      "repository": "https://github.com/giandst/capstone-docs",
+      "participants": [
+        { "id": 17, "lastNames": "De Sinis Tudor Mutis", "firstNames": "Gianluca", "username": "gi.desinistudor" },
+        { "id": 18, "lastNames": "Quinenao", "firstNames": "Gerald", "username": "ge.quinenao" },
+        { "id": 19, "lastNames": "Reyes", "firstNames": "Nicolas", "username": "ni.reyesb" }
+      ]
+    },
+    {
+      "id": 8,
+      "repository": "https://github.com/AndhreCruz/capstone-007v-grupo8.git",
+      "participants": [
+        { "id": 20, "lastNames": "Cruz", "firstNames": "Andhre", "username": "and.cruz" },
+        { "id": 21, "lastNames": "Kacic", "firstNames": "Nicolas", "username": "ni.kacic" },
+        { "id": 22, "lastNames": "Polanco", "firstNames": "Sebastian" }
+      ]
+    },
+    {
+      "id": 9,
+      "repository": "https://github.com/Adrian-Najera-Dev/Vigia-hh",
+      "participants": [
+        { "id": 23, "lastNames": "Llanquinao", "firstNames": "Rodrigo", "username": "rod.llanquinao" },
+        { "id": 24, "lastNames": "Gamboa", "firstNames": "Andres" },
+        { "id": 25, "lastNames": "Najera", "firstNames": "Adrian" }
+      ]
+    },
+    {
+      "id": 10,
+      "repository": "https://github.com/Dieegggo/Capstone",
+      "participants": [
+        { "id": 26, "lastNames": "Doveris", "firstNames": "Mario", "username": "ma.doveris" },
+        { "id": 27, "lastNames": "Heredia", "firstNames": "Adrian", "username": "ad.heredia" },
+        { "id": 28, "lastNames": "Torres", "firstNames": "Diego", "username": "dieg.torresn" }
+      ]
+    },
+    {
+      "id": 11,
+      "repository": "https://github.com/IGNACIOb21/CAPSTONE-Proyecto_de_reciclage_grupo_11",
+      "participants": [
+        { "id": 15, "lastNames": "Zuniga", "firstNames": "Nicolas", "username": "ni.zunigao" },
+        { "id": 16, "lastNames": "Aguilar", "firstNames": "Ignacio" }
+      ]
+    },
+    {
+      "id": 12,
+      "repository": "https://github.com/Temism/Capstone12",
+      "participants": [
+        { "id": 29, "lastNames": "Avila", "firstNames": "Gustavo", "username": "gu.avila" },
+        { "id": 30, "lastNames": "Palma", "firstNames": "Marco", "username": "ma.palma"}
+      ]
+    }
+  ],
+  "allowedExtraUnder": [
+    "Fase 1/Evidencias Individuales",
+    "Fase 1/Evidencias Grupales",
+    "Fase 2/Evidencias Individuales",
+    "Fase 2/Evidencias Grupales",
+    "Fase 2/Evidencias de documentación",
+    "Fase 2/Evidencias de sistema",
+    "Fase 3/Evidencias Individuales",
+    "Fase 3/Evidencias Grupales",
+    "Fase 3/Evidencias Proyecto",
+    "Bot",
+    "README.md",
+    "index.html",
+    "index.json"
+  ],
+  "tree": [
+    {
+      "path": "Fase 1",
+      "type": "directory",
+      "children": [
+        {
+          "path": "Evidencias Individuales",
+          "type": "directory",
+          "children": [
+            {
+              "path": "Apellido_Nombre_1.1_APT122_AutoevaluacionCompetenciasFase1.docx",
+              "perParticipant": true,
+              "type": "file"
+            },
+            {
+              "path": "Apellido_Nombre_1.2_APT122_DiarioReflexionFase1.docx",
+              "perParticipant": true,
+              "type": "file"
+            },
+            {
+              "path": "Apellido_Nombre_1.3_APT122_AutoevaluacionFase1.docx",
+              "perParticipant": true,
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "path": "Evidencias Grupales",
+          "type": "directory",
+          "children": [
+            {
+              "path": "1.4_APT122_FormativaFase1.docx",
+              "type": "file"
+            },
+            {
+              "path": "1.5_GuiaEstudiante_Fase 1_Definicion Proyecto APT (Español).docx",
+              "type": "file"
+            },
+            {
+              "path": "PLANILLA DE EVALUACIÓN FASE 1.xlsx",
+              "type": "file"
+            },
+            {
+              "path": "Presentación idea de proyecto.pptx",
+              "type": "file"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "Fase 2",
+      "type": "directory",
+      "children": [
+        {
+          "path": "Evidencias Individuales",
+          "type": "directory",
+          "children": [
+            {
+              "path": "Apellido_Nombre_2.1_APT122_DiarioReflexionFase2.docx",
+              "perParticipant": true,
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "path": "Evidencias Grupales",
+          "type": "directory",
+          "children": [
+            {
+              "path": "2.4_GuiaEstudiante_Fase 2_DesarrolloProyecto APT (Español).docx",
+              "type": "file"
+            },
+            {
+              "path": "2.6_GuiaEstudiante_Fase 2_Informe Final Proyecto APT.docx",
+              "type": "file"
+            },
+            {
+              "path": "PLANILLA DE EVALUACIÓN AVANCE FASE 2.xlsx",
+              "type": "file"
+            },
+            {
+              "path": "PLANILLA DE EVALUACIÓN FINAL FASE 2.xlsx",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "path": "Evidencias de documentación",
+          "type": "directory",
+          "children": [
+            {
+              "path": ".gitkeep",
+              "type": "file",
+              "gitkeepForEmptyDirectory": true
+            }
+          ]
+        },
+        {
+          "path": "Evidencias de sistema",
+          "type": "directory",
+          "children": [
+            {
+              "path": "Aplicación",
+              "type": "directory",
+              "children": [
+                {
+                  "path": ".gitkeep",
+                  "type": "file",
+                  "gitkeepForEmptyDirectory": true
+                }
+              ]
+            },
+            {
+              "path": "Base de datos",
+              "type": "directory",
+              "children": [
+                {
+                  "path": ".gitkeep",
+                  "type": "file",
+                  "gitkeepForEmptyDirectory": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "Fase 3",
+      "type": "directory",
+      "children": [
+        {
+          "path": "Evidencias Individuales",
+          "type": "directory",
+          "children": [
+            {
+              "path": "Apellido_Nombre_3.1_APT122_DiarioReflexionFase3.docx",
+              "perParticipant": true,
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "path": "Evidencias Grupales",
+          "type": "directory",
+          "children": [
+            {
+              "path": "PLANILLA DE EVALUACIÓN FASE 3.xlsx",
+              "type": "file"
+            },
+            {
+              "path": "Presentación Final del proyecto.pptx",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "path": "Evidencias Proyecto",
+          "type": "directory",
+          "children": [
+            {
+              "path": "Presentación Proyecto.pptx",
+              "type": "file"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
